@@ -1,0 +1,47 @@
+body {
+    margin: 50;
+    background-color: #ddd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#logo {
+    width: 300;
+    height: 100;
+    margin: 0 auto; 
+    display: block;
+}
+
+#mainContainer {
+    background-color: white;
+    width: 80%;
+    min-height: 100%;
+    margin: 0 auto; 
+    padding: 32;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#topbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #004088;
+    height: 50;
+}
+
+#logobar{
+    height: 46;
+    position: absolute;
+    left: 5;
+}
+
+.baritem{
+    text-decoration: none;
+    color: #ddd;
+}
