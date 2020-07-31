@@ -46,6 +46,10 @@ body {
     left: 5;
 }
 
+.feedTitle{
+    color: #004088;
+}
+
 .baritem{
     text-decoration: none;
     color: #ddd;
@@ -53,7 +57,7 @@ body {
 
 .feedContainer{
     background-color: #fff;
-    width: 60%;
+    width: 65%;
     margin: 0 auto; 
     padding: 32;
     margin-top: 32;
