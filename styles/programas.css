@@ -46,6 +46,20 @@ body {
     left: 5;
 }
 
+button{
+    background-color: #004088;
+    padding: 10;
+    display: block;
+    margin: 0 auto;
+    color: #ddd;
+    margin-top: 32;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16;
+    cursor: pointer;
+}
+
 .feedTitle{
     color: #004088;
 }
