@@ -45,3 +45,17 @@ body {
     text-decoration: none;
     color: #ddd;
 }
+
+input{
+    padding: 10px;
+    margin: 5px;
+    width: 100%;
+}
+
+#sendButton{
+    padding: 10px;
+    width: 100%;
+    margin: 5px;
+    background-color: #004088;
+    color: white;
+}
